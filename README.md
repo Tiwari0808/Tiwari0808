@@ -1,17 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divyanshu Tiwari
-========================================================================================================================================
+![Hi there 👋](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Frontend Developer
-------------------
+# Hi, I'm Divyanshu Tiwari 👨‍💻
 
-Passionate front-end developer creating captivating web experiences. Lifelong learner committed to user-centered tech impact. Let's collaborate and create exceptional solutions! 🚀
+### 🚀 Frontend Developer | Lifelong Learner | Tech Enthusiast
 
-* 🌍  I'm based in Pune
-* ✉️  You can contact me at [divyanshutiwari173@gmail.com](mailto:divyanshutiwari173@gmail.com)
-* 🧠  I'm learning BackEnd Development
-* 🤝  I'm open to collaborating on FrontEnd Projects
+Passionate front-end developer crafting engaging and responsive user experiences. Always learning and building. Let's create something great together! 💻✨
 
-### Skills
+---
+
+- 🌍 I'm based in **Pune, India**
+- ✉️ Reach me at: [divyanshutiwari173@gmail.com](mailto:divyanshutiwari173@gmail.com)
+- 🧠 Currently learning **Back-End Development**
+- 🤝 Open to **collaborating on Frontend Projects**
+
+---
+
+## ⚒️ Technologies & Tools
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -37,26 +41,56 @@ Passionate front-end developer creating captivating web experiences. Lifelong le
   </a>
 </p>
 
-### Top Languages
+---
 
-<a href="https://github.com/Tiwari0808" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari0808&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+## 📈 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/Tiwari0808">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tiwari0808&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  </a>
+  <br/>
+  <a href="https://github.com/Tiwari0808">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiwari0808&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+  <br/>
+  <a href="https://github.com/Tiwari0808">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tiwari0808&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+  </a>
+</p>
 
+---
 
-### Socials
+## 💻 Top Languages
 
-<p align="left"> <a href="https://www.github.com/Tiwari0808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/divyanshu-tiwari-a96937228" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://github.com/Tiwari0808">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari0808&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
+  </a>
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 📂 Featured Projects
 
-<a href="http://www.github.com/Tiwari0808"><img src="https://github-readme-stats.vercel.app/api?username=Tiwari0808&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tiwari0808's GitHub stats" /></a>
+- 🚍 **Bus Booking App** (React + Bootstrap + Axios) – [View Repo](https://github.com/Tiwari0808/BusBookingApp)
+- 💳 **Expense Tracker** (React + Charts + Filter) – [View Repo](https://github.com/Tiwari0808/ExpenseTracker)
 
-<a href="http://www.github.com/Tiwari0808"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiwari0808&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/Tiwari0808"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tiwari0808&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🌐 Social Links
 
-<a href="https://github.com/Tiwari0808" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari0808&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <a href="https://github.com/Tiwari0808" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyanshu-tiwari-a96937228" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tiwari0808&label=Profile%20views&color=0e75b6&style=flat" alt="Tiwari0808" />
+</p>
