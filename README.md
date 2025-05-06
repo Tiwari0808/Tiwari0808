@@ -61,13 +61,18 @@ Passionate front-end developer crafting engaging and responsive user experiences
 
 ---
 
-## 💻 Top Languages
+## 💻 Top Languages & Frameworks
 
 <p align="left">
   <a href="https://github.com/Tiwari0808">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari0808&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
   </a>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Framework-React-blue?logo=react&logoColor=white" />
+</p>
+
 
 ---
 
